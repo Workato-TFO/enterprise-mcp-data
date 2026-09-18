@@ -1,6 +1,7 @@
-# Enterprise MCP 202 — Lab guides
+# Enterprise Data MCP — Lab guides
 
-Customer-facing lab guides for Enterprise MCP 202. The repository is designed
+Customer-facing lab guides for Enterprise Data MCP: Data Your AI Can Actually
+Use. The repository is designed
 public and remains private until its promotion is approved.
 
 ## Contents

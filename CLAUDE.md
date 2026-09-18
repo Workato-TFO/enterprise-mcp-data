@@ -1,6 +1,6 @@
 # enterprise-mcp-data
 
-Customer-facing Enterprise MCP 202 lab guides, served through GitHub Pages.
+Customer-facing Enterprise Data MCP lab guides, served through GitHub Pages.
 
 ## Visibility contract: designed public
 

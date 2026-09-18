@@ -1,4 +1,4 @@
-# enterprise-mcp-202
+# mcp-data
 
 Customer-facing Enterprise MCP 202 lab guides, served through GitHub Pages.
 
